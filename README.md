@@ -63,6 +63,13 @@ Running on local URL:  http://127.0.0.1:xxx
 <!-- readme: collaborators,contributors -start -->
 <table>
 	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/KaguraMiku">
+                    <img src="https://avatars.githubusercontent.com/u/94972433?v=4" width="100;" alt="KaguraMiku"/>
+                    <br />
+                    <sub><b>KaguraMiku</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/mikumifa">
